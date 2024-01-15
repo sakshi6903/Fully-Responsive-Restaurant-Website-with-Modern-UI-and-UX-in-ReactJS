@@ -7,4 +7,4 @@
 - From soft and pleasant animations to complex gradients
 - Perfectly placed media queries for satisfactory responsiveness covering almost all devices
 
- **LIVE SITE -->** 
+ **LIVE SITE -->https://restaurant-website-in-reactjs.netlify.app** 
