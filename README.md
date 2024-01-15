@@ -1,4 +1,4 @@
-#Fully Responsive Restaurant Website with Modern UI and UX in ReactJS
+**Fully Responsive Restaurant Website with Modern UI and UX in ReactJS**
 
 - React functional components and their reusability
 - React file and folder structure
@@ -6,3 +6,5 @@
 - Fundamentals of the CSS BEM Model
 - From soft and pleasant animations to complex gradients
 - Perfectly placed media queries for satisfactory responsiveness covering almost all devices
+
+ **LIVE SITE -->** 
